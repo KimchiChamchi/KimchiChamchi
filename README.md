@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ssangMin%20codding&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=1000&height=300&section=header&text=ssangMin%20codding&fontSize=90)
 
 
 
