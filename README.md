@@ -17,9 +17,9 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LeessangMin&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KimchiChamchi&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeessangMin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimchiChamchi)
 
 
 
