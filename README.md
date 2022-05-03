@@ -17,7 +17,7 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KimchiChamchi&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KimchiChamchi&show_icons=false&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimchiChamchi)
 
